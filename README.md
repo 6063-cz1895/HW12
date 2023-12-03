@@ -16,4 +16,4 @@ Image on repo:
 ![circuit](./circuit.jpg)
 ![FSM](./FSM.jpg)
 ![joyStick](./joyStick.jpg)
-![System diagram](./System diagram.jpg)
+![System diagram](./systemDiagram.jpg)
